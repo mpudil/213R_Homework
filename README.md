@@ -8,7 +8,7 @@ Intro to importing and summarizing data
 Advanced regression techniques to predict the housing prices given their features. 
 
 
-#### Costa_Rica_Poverty-4.ipynb	
+#### Costa_Rica_Poverty.ipynb	
 Classification of Costa Rican families based on their demographics. 
 
 #### Dimensionality_Reduction-3.ipynb	
